@@ -1,0 +1,15 @@
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/bin/Debug/net7.0/If-ElseIf-Ternary-If
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/bin/Debug/net7.0/If-ElseIf-Ternary-If.deps.json
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/bin/Debug/net7.0/If-ElseIf-Ternary-If.runtimeconfig.json
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/bin/Debug/net7.0/If-ElseIf-Ternary-If.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/bin/Debug/net7.0/If-ElseIf-Ternary-If.pdb
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/If-ElseIf-Ternary-If.csproj.AssemblyReference.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/If-ElseIf-Ternary-If.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/If-ElseIf-Ternary-If.AssemblyInfoInputs.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/If-ElseIf-Ternary-If.AssemblyInfo.cs
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/If-ElseIf-Ternary-If.csproj.CoreCompileInputs.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/If-ElseIf-Ternary-If.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/refint/If-ElseIf-Ternary-If.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/If-ElseIf-Ternary-If.pdb
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/If-ElseIf-Ternary-If.genruntimeconfig.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-If ElseIf Ternary If/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/net7.0/ref/If-ElseIf-Ternary-If.dll
